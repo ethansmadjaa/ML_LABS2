@@ -16,14 +16,14 @@ This repository will be updated weekly with:
 ## 🗂 Repository Structure
 
 ```
-.
+
 ├── LAB1/
 │   ├── PRELAB/
 │   │   ├── PRELAB_FFNN.ipynb
 │   │   └── data_ffnn.txt
 │   └── LAB/
-│   │   ├──LAB_FFNN.ipynb
-│   │   └── data/
+│       ├──LAB_FFNN.ipynb
+│       └── data/
 ├── LAB2/
 └── ...
 ```
